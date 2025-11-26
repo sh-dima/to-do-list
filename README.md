@@ -12,6 +12,13 @@ Features
 * Allows having multiple to-do lists
 * To-do lists are stored in the browser's local storage
 
+Links
+-----
+
+* [Website](https://sh-dima.github.io/to-do-list/)
+* [GitLab](https://gitlab.com/shdima/to-do-list)
+* [GitHub](https://github.com/sh-dima/to-do-list)
+
 License
 -------
 
